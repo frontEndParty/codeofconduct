@@ -61,7 +61,7 @@ Directly contact one of the organizers in person or through Meetup’s messaging
 
 ### Anonymous Reporting
 
-Anonymously report a concern here (create a form link). 
+Anonymously report a concern [here](https://goo.gl/forms/jhehNOSKitkYcPoZ2). 
 
 We can’t follow up an anonymous report with you directly, but we will fully investigate it and take whatever action is necessary to prevent a recurrence. 
 
