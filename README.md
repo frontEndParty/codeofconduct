@@ -58,7 +58,6 @@ Directly contact one of the organizers in person or through Meetup’s messaging
 - Cameron Sampson https://www.meetup.com/FrontEndParty/members/52557152/ 
 - Steven Achord https://www.meetup.com/FrontEndParty/members/185213572/ 
 - Sia Karamalegos https://www.meetup.com/FrontEndParty/members/98819682/ 
-- Matt Shwery https://www.meetup.com/FrontEndParty/members/21058911/ 
 
 ### Anonymous Reporting
 
